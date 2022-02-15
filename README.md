@@ -9,4 +9,4 @@ This repository is primarily for homework of the course "Statistics, Probability
 - AmirHossein Pilevaran ([amirhossainpilehvarian@gmail.com](mailto:amirhossainpilehvarian@gmail.com))
 - Ali Salehi ([alisalehi076@gmail.com](mailto:alisalehi076@gmail.com))
 
-If you are yet unfamiliar with scientific programming with python, first check out [Notes on python](Notes on python.pdf) file.
+If you are yet unfamiliar with scientific programming with python, first check out [Notes on python](Notes\ on\ python.pdf) file.
